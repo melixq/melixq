@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MelixQ
+- 👋 Hi, I’m @MelixQ - software engineer soul
 - 👀 I’m interested in C# development
-- 🌱 I’m currently learning software engineering at UrFU
+- 🌱 I’m currently studying for Master's degree for Applied Data Analysis (Sberbank) major at Ural Federal University
 - [VK](http://vk.com/melix42 "My VK profile") and [Telegram](https://telegram.me/melix42 "My Telegram")
 
 <!---
