@@ -5,30 +5,16 @@ I'm a Bachelor's graduate in Software Engineering and currently pursuing a Maste
 ## My Tech Stack 💻
 
 #### Languages
-<div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/csharp.svg" alt="C#" width="44" />
-  <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/python.svg" alt="Python" width="44" />
-  <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/java.svg" alt="Java" width="44" />
-</div>
+[![Languages](https://skillicons.dev/icons?i=cs,py,java)](https://skillicons.dev)
 
 #### Frameworks & Libraries
-<div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/dotnet.svg" alt=".NET" width="44"/>
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/fastapi.svg" alt="FastAPI" width="44"/>
-</div>
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=dotnet,fastapi)](https://skillicons.dev)
 
 #### Tools & Technologies
-<div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/unity.svg" alt="Unity Game Engine" width="44"/>
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/aiogram.svg" alt="AIogram" width="44"/>
-</div>
+[![Languages](https://skillicons.dev/icons?i=unity)](https://skillicons.dev) <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/aiogram.svg" alt="AIogram" width="44"/>
 
 #### Databases
-<div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/postgresql.svg" alt="PostgreSQL" width="44"/>
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/mongodb.svg" alt="MongoDB" width="44"/>
-    <img src="https://raw.githubusercontent.com/MelixQ/MelixQ/main/images/stack/redis.svg" alt="Redis" width="44"/>
-</div>
+[![Languages](https://skillicons.dev/icons?i=postgres,mongo,redis)](https://skillicons.dev)
 
 ## GitHub Stats 📊
 
