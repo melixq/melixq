@@ -18,11 +18,11 @@ I'm a Bachelor's graduate in Software Engineering and currently pursuing a Maste
 
 ## GitHub Stats 📊
 
-![MelixQ Stat](https://github-readme-stats.vercel.app/api?username=MelixQ&show_icons=true&theme=catppuccin_mocha)
+![MelixQ Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha)
 
 ## Connect With Me 🌐
 
-Have a question or want to chat? Feel free to **[open an issue](https://github.com/MelixQ/MelixQ/issues)**!
+Have a question or want to chat? Feel free to **[open an issue](https://github.com/melixq/melixq/issues)**!
 
 [<img src="https://raw.githubusercontent.com/melixq/melixq/refs/heads/main/images/socials/vk.svg" alt="VK" width="44" />](https://vk.com/melix42)
 [<img src="https://raw.githubusercontent.com/melixq/melixq/refs/heads/main/images/socials/telegram.svg" alt="Telegram" width="44" />](https://t.me/melix42)
