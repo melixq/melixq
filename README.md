@@ -18,7 +18,7 @@ I'm a Bachelor's graduate in Software Engineering and currently pursuing a Maste
 
 ## GitHub Stats 📊
 
-![MelixQ Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha)
+![melixQ Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true)
 
 ## Connect With Me 🌐
 
