@@ -19,8 +19,8 @@ Passionate about building robust and scalable systems, I'm currently diving deep
 [![Languages](https://skillicons.dev/icons?i=postgres,mongo,redis)](https://skillicons.dev)
 
 ## GitHub Stats 📊
-
-![melixQ Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true)
+![Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true&include_all_commits=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=melixq&theme=catppuccin_mocha&hide_border=false)
 
 ## Connect With Me 🌐
 
