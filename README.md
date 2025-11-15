@@ -2,7 +2,7 @@
 
 I'm a Bachelor's graduate in Software Engineering and currently pursuing a Master's degree in Applied Data Analysis (Sberbank) major at Ural Federal University. 
 
-Passionate about building robust and scalable systems, I'm currently diving deep into **backend development with .NET** and exploring how data-driven insights can power smarter applications.
+I started my dev journey building things with Unity. That’s where I fell in love with coding. These days, I lean **my focus on backend development with .NET**, trying to build services that are reliable, maintainable, and actually solve real problems. I still enjoy tinkering with Unity now and then, but my heart’s in the server-side logic now.
 
 ## My Tech Stack 💻
 
