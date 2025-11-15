@@ -1,8 +1,8 @@
-## Welcome 👋, I'm Maxim Kuznetsov
+## Hi 👋, I'm Maxim Kuznetsov
 
 I'm a Bachelor's graduate in Software Engineering and currently pursuing a Master's degree in Applied Data Analysis (Sberbank) major at Ural Federal University. 
 
-Passionate about building robust and scalable systems, I'm currently diving deep into **backend development with C#** and exploring how data-driven insights can power smarter applications.
+Passionate about building robust and scalable systems, I'm currently diving deep into **backend development with .NET** and exploring how data-driven insights can power smarter applications.
 
 ## My Tech Stack 💻
 
