@@ -19,8 +19,8 @@ I started my dev journey building things with Unity. That’s where I fell in lo
 [![Languages](https://skillicons.dev/icons?i=postgres,mongo,redis)](https://skillicons.dev)
 
 ## GitHub Stats 📊
-![Stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true&include_all_commits=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=melixq&theme=catppuccin_mocha&hide_border=false)
+![melixq github stat](https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true&include_all_commits=false)
+![melixq github streak](https://nirzak-streak-stats.vercel.app/?user=melixq&theme=catppuccin_mocha&hide_border=false)
 
 ## Connect With Me 🌐
 
