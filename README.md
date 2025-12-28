@@ -66,11 +66,11 @@ I started my dev journey building things with Unity. That’s where I fell in lo
 
 <div align="center">
     <h4>Have a question or want to chat? Feel free to <a href="https://github.com/melixq/melixq/issues"> <b> open an issue</b></a> or contact via my socials below 😌</h4>
-    <img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/vk.svg" width="48" height="48" alt="vk"  />
+    <a href="https://vk.com/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/vk.svg" width="48" height="48" alt="vk"  /></a>
     <img width="12" />
-    <img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/telegram.svg" width="48" height="48" alt="telegram"  />
+    <a href="https://t.me/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/telegram.svg" width="48" height="48" alt="telegram"  /></a>
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=github" alt="github"  />
+    <a href="https://github.com/melixq"><img src="https://skillicons.dev/icons?i=github" alt="github"  /></a>
     <img width="12" />
     <a href="mailto:melixqode@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
 </div>
