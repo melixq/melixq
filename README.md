@@ -2,7 +2,7 @@
 
 I'm a Bachelor's graduate in Software Engineering and currently pursuing a Master's degree in Applied Data Analysis (Sberbank) major at Ural Federal University. 
 
-I started my dev journey building things with Unity. That’s where I fell in love with coding. These days, I lean my focus on **backend development with .NET**, trying to build services that are reliable, maintainable, and actually solve real problems. I still enjoy tinkering with Unity now and then, but my heart’s in the server-side logic now.
+These days, I lean my focus on **backend development with .NET**, trying to build services that are reliable, maintainable, and actually solve real problems. But I also enjoy tinkering with Unity now and then.
 
 ###
 
@@ -43,15 +43,11 @@ I started my dev journey building things with Unity. That’s where I fell in lo
 <div align="center">
     <img src="https://skillicons.dev/icons?i=rider" alt="rider"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="vscode"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=idea" alt="idea"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse"  />
 </div>
 
 ###
@@ -65,7 +61,7 @@ I started my dev journey building things with Unity. That’s where I fell in lo
 ###
 
 <div align="center">
-    <h4>Have a question or want to chat? Feel free to <a href="https://github.com/melixq/melixq/issues"> <b> open an issue</b></a> or contact via my socials below 😌</h4>
+    <h4>Have a question or want to chat? Feel free to <a href="https://github.com/melixq/melixq/issues"> <b> open an issue</b></a> or contact via my socials below</h4>
     <a href="https://vk.com/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/vk.svg" width="48" height="48" alt="vk"  /></a>
     <img width="12" />
     <a href="https://t.me/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/telegram.svg" width="48" height="48" alt="telegram"  /></a>
