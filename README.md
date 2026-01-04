@@ -53,7 +53,7 @@ These days, I lean my focus on **backend development with .NET**, trying to buil
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true" />  
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true" />  
     <img width="12" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=melixq&theme=catppuccin_mocha&hide_border=false" />
 </div>
