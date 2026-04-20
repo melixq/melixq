@@ -7,65 +7,68 @@ These days, I lean my focus on **backend development with .NET**, trying to buil
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs" alt="csharp">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=py" alt="python">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=java" alt="java">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp"/>
+    <img width="10px"/>
+    <img src="https://skillicons.dev/icons?i=py" alt="python" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=java" alt="java" />
 </div>
 
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=mongo" alt="mongo">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=redis" alt="redis">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=mongo" alt="mongo" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=redis" alt="redis" />
 </div>
 
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=django" alt="django">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=unity" alt="unity">
-    <img width="10px">
-    <img src="https://raw.githubusercontent.com/melixq/melixq/main/images/stack/aiogram_v2.svg" width="48px" height="48px" alt="AIogram">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=django" alt="django" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" />
+    <img width="10px" />
+    <img src="https://raw.githubusercontent.com/melixq/melixq/main/images/stack/aiogram_v2.svg" width="48px" height="48px" alt="AIogram" />
 </div>
 
 ###
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rider" alt="rider">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm">
-    <img width="10px">
-    <img src="https://skillicons.dev/icons?i=idea" alt="idea">
+    <img src="https://skillicons.dev/icons?i=rider" alt="rider" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" />
+    <img width="10px" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="idea" /> <img>
 </div>
 
 ###
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=melixq&theme=catppuccin-mocha)](https://git.io/streak-stats)
+<div align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=melixq&show_icons=true&theme=catppuccin_mocha&hide_border=false&count_private=true" />
+    <img width="10px" />
+    <img src="https://streak-stats.demolab.com/?user=melixq&theme=catppuccin-mocha" /> 
+</div>
 
 ###
 
 <div align="center">
     <h4>Have a question or want to chat? Feel free to <a href="https://github.com/melixq/melixq/issues"> <b> open an issue</b></a> or contact via my socials below</h4>
-    <a href="https://t.me/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/telegram.svg" width="48px" height="48px" alt="telegram"></a>
-    <img width="10px">
-    <a href="https://vk.com/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/vk.svg" width="48px" height="48px" alt="vk"></a>
-    <img width="10px">
-    <a href="https://github.com/melixq"><img src="https://skillicons.dev/icons?i=github" alt="github"></a>
-    <img width="10px">
-    <a href="mailto:melixqode@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"></a>
+    <a href="https://t.me/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/telegram.svg" width="48px" height="48px" alt="telegram" /></a>
+    <img width="10px" />
+    <a href="https://vk.com/melix42"><img src="https://raw.githubusercontent.com/melixq/melixq/main/images/socials/vk.svg" width="48px" height="48px" alt="vk" /></a>
+    <img width="10px" />
+    <a href="https://github.com/melixq"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+    <img width="10px" />
+    <a href="mailto:melixqode@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
 </div>
 
 ---
