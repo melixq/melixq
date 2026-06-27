@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Maxim Kuznetsov
 
-I'm a Bachelor's graduate in Software Engineering and currently pursuing a Master's degree in Applied Data Analysis (Sberbank) major at Ural Federal University. 
+I am: 
+* Bachelor's graduate in Software Engineering major at Ural Federal University
+* Master's graduate in Applied Data Analysis (Sberbank) major at Ural Federal University
 
 These days, I lean my focus on **backend development with .NET**, trying to build services that are reliable, maintainable, and actually solve real problems. But I also enjoy tinkering with Unity now and then.
 
