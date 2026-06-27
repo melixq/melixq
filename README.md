@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Maxim Kuznetsov
 
-I am: 
 * Bachelor's graduate in Software Engineering major at Ural Federal University
 * Master's graduate in Applied Data Analysis (Sberbank) major at Ural Federal University
 
